@@ -1,5 +1,3 @@
 MyGit
 -
-Testing out git.
-I think I got it working.
-I hope...
+This is the place where I have comed to learn and practice git.
