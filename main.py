@@ -1,3 +1,2 @@
-for i in range(100):
-    print("Hello World")
+string = input("Enter something to \"nerdiate:\"\n")
 
